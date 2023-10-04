@@ -1,0 +1,15 @@
+label{
+    font-weight: bold;  
+}
+
+select{
+    margin-bottom: 10px;
+    border: none;
+    padding: 5px;
+    background-color: lightgreen;
+    border-radius: 180px;
+}
+
+option{
+    background-color: white;
+}
